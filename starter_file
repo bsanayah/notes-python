@@ -1,0 +1,8 @@
+import random
+
+#variables are named using lowercase letters and underscores
+my_age = 26
+half_my_age = 26/2
+greeting = 'Hi friends'
+name = 'Sanayah'
+greeting_with_name = print(greeting + ', my name is ' + name)
