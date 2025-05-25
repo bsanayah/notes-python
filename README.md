@@ -1,5 +1,5 @@
 # My Python Notes
-My notes on python
+My notes on python. This repo contains notes on basic syntax and operations in python. 
 
 **starter_file**
 
